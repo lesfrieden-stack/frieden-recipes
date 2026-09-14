@@ -1,0 +1,13 @@
+{
+  "name": "frieden-recipes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.8.0",
+    "@vercel/postgres": "^0.10.0"
+  }
+}
