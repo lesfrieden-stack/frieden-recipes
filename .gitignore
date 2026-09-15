@@ -4,3 +4,8 @@ node_modules/
 .env.local
 .env*.local
 *.log
+
+# Pre-migration backups, not needed in the repo
+Old index.html
+index - Copy.html
+original index.html
